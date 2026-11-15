@@ -31,6 +31,6 @@ python 02_code/run_analysis.py --download --version V0_4
 About 120 GB of downloads and 2 to 4 hours on a desktop computer; without `--download`, place the inputs in `01_data/raw/` with the file names given in the download scripts (also listed in Supplementary Table 5 of the paper). The run writes `03_results/P44x_NUMBERS_V0_4.csv`, which holds every number reported in the paper, together with the tables and figures.
 
 
-## Licence
+## Licence 
 
 Code: MIT licence (`LICENSE`). Input data keep their own licences.
